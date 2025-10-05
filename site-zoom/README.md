@@ -1,5 +1,5 @@
 #Medium
 
-<h1>Site Medium</h1>
+<h1>Site zoom</h1>
 
-https://medium.com/
+https://zoom.com/
